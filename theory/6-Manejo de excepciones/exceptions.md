@@ -68,7 +68,7 @@ except ValueError as ve:
 Nótese que le hemos asigndado al error un mensaje y en el bloque except, hemos usado un alias para mejorar la legibilidad y mostrar
 ese mensaje de error asignado a la excepción.
 
-# finally: finalizar
+## finally: finalizar
 Se usa al final de una estructura try-except para poder cerrar un archivo, cerrar una conexión a una base de datos o liberar 
 recursos externos. No es muy frecuente su uso.
 ~~~
@@ -80,7 +80,7 @@ finally:
 ~~~
 En este ejemplo de código, se abre un archivo e independientemente de si sucede un error o no, se cierra el archivo.
 
-# assert: afirmación
+## assert: afirmación
 Asserts es una expresión en Python que también podemos usar para tratar errores. Su flujo es el siguiente:
 Tenemos dentro del código un assert (que es una afirmación). Si esta afirmación se cumple (assert retorna True), el código sigue
 su flujo. Pero si no se cumple (assert retorna False), devolvemos un error.
