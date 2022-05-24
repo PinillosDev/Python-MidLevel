@@ -7,10 +7,9 @@ El curso se basa en las carpetas theory y practice. En una encontrarás la teor�
 1. Introducción al curso
 2. Entornos virtuales: concepto y creación
 3. Comprensión de listas y diccionarios
-4. Funciones lambda
-5. Funciones de orden superior
-6. Debugging
-7. Manejo de excepciones
-8. Manejo de archivos
+4. Funciones lambda y funciones de orden superior
+5. Debugging
+6. Manejo de excepciones
+7. Manejo de archivos
 
 \* Curso en actual construcción.
