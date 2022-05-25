@@ -1,7 +1,8 @@
 # Dictionary comprehension
-Realizar *dictionary comprehension* no es muy diferente de hacerlo con listas. De hecho, sigue la misma l√≥gica.
-Ve√°mos un ejemplo:
+Realizar *dictionary comprehension* no es muy diferente de hacerlo con listas. De hecho, sigue la misma lÛgica.
+Veamos un ejemplo:
 
-_odd = {i:i*2 for i in range(1, 11)}_
+'odd = {i:i*2 for i in range(1, 11)}'
 
-La diferencia con las lists comprehension es que tenemos la clave y valor {clave: valor} como argumentos de la instrucci√≥n.
+La diferencia con las list comprehension es que tenemos la clave y valor {clave: valor} como argumentos de la
+instrucciÛn.
