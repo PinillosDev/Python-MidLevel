@@ -11,9 +11,9 @@ sean correctos, que no se hagan operaciones entre *int* y *str*, que no se esté
 entre otros casos.
 
 Si el intérprete encuentra un error, para automáticamente y nos muestra un error como este:
-1) qué tipo de error (ejemplo: SyntaxError)
-2) Dónde ocurrió (Ejemplo: line 13)
-3) En qué módulo ocurrió (ejemplo: main())
+1. qué tipo de error (ejemplo: SyntaxError)
+2. Dónde ocurrió (Ejemplo: line 13)
+3. En qué módulo ocurrió (ejemplo: main())
 
 Pero hay un problema: los errores de los que nos avisa el intérprete de Python son errores sintácticos, de valor, de división entre
 cero, índices fuera de valor, llaves que no existen, entre otros.
