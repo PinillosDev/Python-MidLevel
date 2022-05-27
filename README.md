@@ -1,15 +1,15 @@
 # Python Mid level
-Este es un curso gratuito donde aprender谩s Python a un nivel intermedio.
-
-El curso se basa en las carpetas theory y practice. En una encontrar谩s la teor铆a y en la otra ejercicios referente a la teor铆a, respectivamente.
+Este es un curso gratuito donde aprender醩 Python a un nivel intermedio.
+No necesitas descargar o clonar este repositorio, basta con que navegues entre las carpetas y archivos y repliques
+los ejercicios en tu m醧uina, para que desarrolles tus skills tecnol骻icas al siguiente nivel.
 
 # Temario del curso:
-1. Introducci贸n al curso
-2. Entornos virtuales: concepto y creaci贸n
-3. Comprensi贸n de listas y diccionarios
+1. Introducci髇 al curso
+2. Entornos virtuales: concepto y creaci髇
+3. Comprensi髇 de listas y diccionarios
 4. Funciones lambda y funciones de orden superior
 5. Debugging
 6. Manejo de excepciones
 7. Manejo de archivos
 
-\* Curso en actual construcci贸n.
+\* 趌tima actualizaci髇, 27/05/2022 (@PinillosDev)
